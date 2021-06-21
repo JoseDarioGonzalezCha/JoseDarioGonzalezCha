@@ -24,7 +24,7 @@ E estou me capacitando pela https://totidiversidade.com.br/ para me tornar um <b
 
 
 - 🔭 Atualmente estou trabalhando em https://github.com/JoseDarioGonzalezCha/ProjetoCitaMedica
-- 🌱 Atualmemte estou aprendendo sobre Angular
+- 🌱 Agora mesmo estou aprendendo sobre Angular
 - 💬 Pode perguntarme sobre Angular
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
