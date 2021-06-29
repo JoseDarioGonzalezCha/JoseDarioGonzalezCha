@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"> Sejan ben vindos pro meu repositorio! </h1>
+<h1 align="center"> Sejan bem vindos pro meu repositorio! </h1>
 
 <hr />
 
@@ -13,7 +13,7 @@
 
 <p align="left" >
 Atualmente moro em Blumenau, SC Brasil.<br />
-E estou me capacitando pela https://totidiversidade.com.br/ para me tornar um <b> Desenvolvedor Full-Stack </b>.
+Sou formado como <b> Desenvolvedor Full-Stack </b> pela https://totidiversidade.com.br/.
 
 
 <a href="https://www.linkedin.com/in/desenvolvedor-jose/" target="_blank">
@@ -23,15 +23,15 @@ E estou me capacitando pela https://totidiversidade.com.br/ para me tornar um <b
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621983101387.png" width="400px" />
 
 
-- 🔭 Atualmente estou trabalhando em https://github.com/JoseDarioGonzalezCha/ProjetoCitaMedica
-- 🌱 Agora mesmo estou aprendendo sobre Angular
+- 🔭 Atualmente estou participando do programa de formação da hiring coders em parcería com a vtex e a Gama Academy
+- 🌱 Agora mesmo estou aprendendo sobre Angular na proway
 - 💬 Pode perguntarme sobre Angular
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
-- Veja meu <a href="https://gitconnected.com/josedariogonzalezcha/resume" target="_blank">Curriculum</a> para mais informação.
+- Veja meu <a href="https://gitconnected.com/josedariogonzalezcha/resume" target="_blank"><b>Curriculum</b></a> para mais informação.
 - 💼 Sou aficionado por tecnologia, por este motivo estou semper estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são:
-  - Estudar sobre hacking e astronomia.
+  - astronomia.
   
   <hr />
 
