@@ -20,8 +20,6 @@ Sou formado como <b> Desenvolvedor Full-Stack </b> pela https://totidiversidade.
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621983101387.png" width="400px" />
-
 
 - 🔭 Atualmente estou participando do programa de formação da hiring coders em parcería com a vtex e a Gama Academy
 - 🌱 Agora mesmo estou aprendendo sobre Angular na proway
