@@ -12,7 +12,7 @@
 ✨ **JOSE DARIO GONZALEZ CHARRIS** ✨ 
 
 <p align="left" >
-Atualmente moro em Blumenau, SC Brasil.<br />
+Moro em Blumenau, SC Brasil.<br />
 Sou formado como <b> Desenvolvedor Full-Stack </b> pela https://totidiversidade.com.br/.
 
 
@@ -20,15 +20,16 @@ Sou formado como <b> Desenvolvedor Full-Stack </b> pela https://totidiversidade.
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-
-- 🔭 Atualmente estou participando do programa de formação da hiring coders em parcería com a vtex e a Gama Academy
-- 🌱 Agora mesmo estou aprendendo sobre Angular na proway
+- Atualmente estoy trabalhando como Instrutor front end na Alura Latam
+- 🔭 Já participei de varios programas de formação tais como hiring coders em parcería com a vtex e a Gama Academy, DEVinHouse em parceria com a Teltec e a Bry Tecnology
+- 🌱 Aprendi um pouco de Angular na proway
 - 💬 Pode perguntarme sobre Angular
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 - Veja meu <a href="https://gitconnected.com/josedariogonzalezcha/resume" target="_blank"><b>Curriculum</b></a> para mais informação.
 - 💼 Sou aficionado por tecnologia, por este motivo estou semper estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são:
+  - Jiu Jitsu
   - astronomia.
   
   <hr />
