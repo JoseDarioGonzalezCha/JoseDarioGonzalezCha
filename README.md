@@ -21,9 +21,9 @@ Sou formado como <b> Desenvolvedor Full-Stack </b> pela https://totidiversidade.
 </a>
 
 - Atualmente estoy trabalhando como Instrutor front end na Alura Latam
-- 🔭 Já participei de varios programas de formação tais como hiring coders em parcería com a vtex e a Gama Academy, DEVinHouse em parceria com a Teltec e a Bry Tecnology
+- 🔭 Já participei de varios programas de formação tais como hiring coders em parcería com a vtex e a Gama Academy, DEVinHouse em parceria com a Teltec e a Bry Tecnology. Atualmente estou cursando "Técnico em Desenvolvimento de Sistemas" no SENAI - Blumenau
 - 🌱 Aprendi um pouco de Angular na proway
-- 💬 Pode perguntarme sobre Angular
+- 💬 Pode perguntarme sobre React
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 - Veja meu <a href="https://gitconnected.com/josedariogonzalezcha/resume" target="_blank"><b>Curriculum</b></a> para mais informação.
