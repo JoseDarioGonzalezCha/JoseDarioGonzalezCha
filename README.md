@@ -1,60 +1,48 @@
+<h2 align="left">Olá 👋! Meu nome é José González e sou desenvolvedor de software com conhecimento em javascript, typescript, react, java, banco de dados mysql</h2>
 
-# Jose Dario Gonzalez Charris
+###
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador web apasionado por la tecnología y la innovación. Actualmente, me encuentro perfeccionando mis habilidades en desarrollo de sistemas con un enfoque en tecnologías modernas.
+<img align="right" height="150" src="https://imgflip.com/gif/90rbe0"  />
 
-<a href="https://www.instagram.com/jdariotrader/?hl=pt-br" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
+###
 
-<a href="https://www.linkedin.com/in/desenvolvedor-jose/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
-## 📜 Información Básica
+###
 
-- 📍 Actualmente residiendo en Brasil, emigré desde Venezuela en busca de mejores oportunidades laborales en el campo de la programación.
-- 🌱 Estudiante de Técnico en Desarrollo de Sistemas en el Senai, enfocándome en Java, bases de datos MySQL e integración de Java con bases de datos.
+<div align="left">
+  <a href="https://www.linkedin.com/in/desenvolvedor-jose/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/josegonzalezdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="josegonzalezdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://alurax.slack.com/team/U02F9TG6CF8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  </a>
+</div>
 
-## 🧑‍💻 Experiencia Profesional
-
-### Instructor en Alura Latam (Octubre 2022 - Presente)
-
-- **Organización de Contenidos:** Desarrollo y organización de material educativo para plataformas de aprendizaje en línea, centrándome en tecnologías de frontend.
-- **Mentoría:** Asistencia personalizada a estudiantes para asegurar su progreso y éxito en cursos de programación.
-
-### Profesor Frontend en el programa ONE (Oracle Next Education) (Enero 2023 - Presente)
-
-- **Desarrollo Curricular:** Responsable de la creación de contenido educativo para el aprendizaje de tecnologías como HTML, CSS, JavaScript, y React.
-- **Soporte Académico:** Provisión de soporte técnico y pedagógico a los estudiantes para facilitar su aprendizaje en el ámbito del desarrollo web.
-
-### Monitor en Alura Latam (Septiembre 2021 - Octubre 2022)
-
-- **Acompañamiento Estudiantil:** Apoyo a los estudiantes durante su proceso de aprendizaje, proporcionando asistencia técnica y motivacional.
-- **Evaluación de Proyectos:** Revisión y feedback constructivo sobre los proyectos presentados por los estudiantes.
-
-## 🎓 Educación
-
-- **Fullstack Developer en Toti Diversidade (Enero 2021 - Junio 2021):** Fundamentos del desarrollo web con Angular y NodeJs.
-- **Fullstack Developer en DevInHouse del Senai (Agosto 2021 - Junio 2022):** Profundización en HTML, CSS, JavaScript, React y NodeJs.
-- - **Técnico en Desarrollo de Sistemas en el Senai (Agosto 2023 - presente):** Aprendiendo java,  fundamentos como variables, estructuras de control y POO básica, colecciones, manejo de excepciones y concurrencia, patrones de diseño, programación funcional, frameworks como Spring, y técnicas de seguridad y despliegue..
-
-## 📫 Contacto
-
-- 📧 Email: jose.dario.gonzalez.ch@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/desenvolvedor-jose/)
-- 📸 [Instagram](https://www.instagram.com/jdariotrader/?hl=pt-br)
-- 📄 [Currículo / Resume](https://gitconnected.com/josedariogonzalezcha/resume)
-
-<hr />
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDarioGonzalezCha&layout=compact&theme=graywhite&title_color=268bd2" alt="joseDario" />
-</p> 
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseDarioGonzalezCha&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="joseDarioGonzalez" />
-</p>
+###
 
 **Lenguajes y herramientas:**  
 
